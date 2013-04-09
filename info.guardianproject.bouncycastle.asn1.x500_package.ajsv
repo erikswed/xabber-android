@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2013-apr-08 11:38" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" version="1.7.14.v20130313-1237">
+        <class className="info.guardianproject.bouncycastle.asn1.x500.X500NameBuilder" project="GibberBot_OnionKit" xLocation="0" yLocation="0"/>
+        <class className="info.guardianproject.bouncycastle.asn1.x500.RDN" project="GibberBot_OnionKit" xLocation="20" yLocation="20"/>
+        <class className="info.guardianproject.bouncycastle.asn1.x500.DirectoryString" project="GibberBot_OnionKit" xLocation="40" yLocation="40"/>
+        <class className="info.guardianproject.bouncycastle.asn1.x500.AttributeTypeAndValue" project="GibberBot_OnionKit" xLocation="60" yLocation="60"/>
+        <class className="info.guardianproject.bouncycastle.asn1.x500.X500NameStyle" project="GibberBot_OnionKit" xLocation="80" yLocation="80"/>
+        <class className="info.guardianproject.bouncycastle.asn1.x500.X500Name" project="GibberBot_OnionKit" xLocation="100" yLocation="100"/>
+    </diagram>
+</ajsv>

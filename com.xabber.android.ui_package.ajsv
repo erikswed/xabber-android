@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2013-apr-09 10:55" filterScript="" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" version="1.7.14.v20130313-1237">
+        <class className="com.xabber.android.ui.ChatViewer" project="xabber" xLocation="4115" yLocation="9931"/>
+        <class className="com.xabber.android.ui.AccountAdd" project="xabber" xLocation="1595" yLocation="5520"/>
+        <class className="com.xabber.android.ui.ContactViewer" project="xabber" xLocation="6479" yLocation="9917"/>
+        <class className="android.view.View" project="xabber" xLocation="2574" yLocation="2271"/>
+        <class className="android.widget.AdapterView" project="xabber" xLocation="801" yLocation="100"/>
+        <class className="com.xabber.android.ui.ContactList" project="xabber" xLocation="4519" yLocation="6504"/>
+        <class className="com.xabber.android.ui.FingerprintViewer" project="xabber" xLocation="2822" yLocation="10716"/>
+        <class className="com.xabber.android.ui.CertificateConfirmation" project="xabber" xLocation="5837" yLocation="3640"/>
+        <class className="android.view.KeyEvent" project="xabber" xLocation="8196" yLocation="4580"/>
+        <class className="com.xabber.android.ui.QuestionViewer" project="xabber" xLocation="5398" yLocation="9942"/>
+        <class className="android.content.ContextWrapper" project="xabber" xLocation="8096" yLocation="7449"/>
+        <class className="com.xabber.android.ui.OAuthActivity" project="xabber" xLocation="4455" yLocation="3504"/>
+        <class className="com.xabber.android.ui.PasswordRequest" project="xabber" xLocation="3442" yLocation="11832"/>
+        <class className="com.xabber.android.ui.AccountList" project="xabber" xLocation="6405" yLocation="6650"/>
+        <class className="com.xabber.android.ui.ContactAdd" project="xabber" xLocation="1607" yLocation="6388"/>
+        <class className="com.xabber.android.ui.GroupListActivity" project="xabber" xLocation="1412" yLocation="3666"/>
+        <class className="android.content.Context" project="xabber" xLocation="5469" yLocation="6492"/>
+        <class className="android.app.Activity" project="xabber" xLocation="7201" yLocation="7556"/>
+        <class className="com.xabber.android.ui.ContactEditor" project="xabber" xLocation="1201" yLocation="9432"/>
+        <class className="com.xabber.android.ui.AccountEditor" project="xabber" xLocation="5217" yLocation="2549"/>
+        <class className="com.xabber.android.ui.ClearNotifications" project="xabber" xLocation="7073" yLocation="8982"/>
+        <class className="com.xabber.android.ui.PreferenceEditor" project="xabber" xLocation="4599" yLocation="5671"/>
+        <class className="com.xabber.android.ui.ReconnectionActivity" project="xabber" xLocation="9148" yLocation="8065"/>
+        <class className="com.xabber.android.ui.ArchiveRequest" project="xabber" xLocation="4654" yLocation="12646"/>
+        <class className="com.xabber.android.ui.PhraseEditor" project="xabber" xLocation="7641" yLocation="3723"/>
+        <class className="com.xabber.android.ui.LoadActivity" project="xabber" xLocation="5471" yLocation="7636"/>
+        <class className="com.xabber.android.ui.MUCEditor" project="xabber" xLocation="1247" yLocation="7336"/>
+        <class className="android.view.LayoutInflater" project="xabber" xLocation="6744" yLocation="5004"/>
+        <class className="android.view.Window" project="xabber" xLocation="9513" yLocation="5113"/>
+        <class className="android.app.ListActivity" project="xabber" xLocation="4600" yLocation="11826"/>
+        <class className="com.xabber.android.ui.StatusEditor" project="xabber" xLocation="7387" yLocation="6544"/>
+        <class className="android.content.ComponentCallbacks" project="xabber" xLocation="9538" yLocation="6739"/>
+        <class className="com.xabber.android.data.account.OnAccountChangedListener" project="xabber" xLocation="5398" yLocation="10871"/>
+        <class className="com.xabber.android.ui.AboutViewer" project="xabber" xLocation="5873" yLocation="5620"/>
+        <class className="com.xabber.android.ui.OccupantList" project="xabber" xLocation="5469" yLocation="11702"/>
+        <class className="com.xabber.android.ui.dialog.OnCancelListener" project="xabber" xLocation="3455" yLocation="1508"/>
+        <class className="android.view.ContextThemeWrapper" project="xabber" xLocation="5379" yLocation="8453"/>
+        <class className="com.xabber.android.data.BaseUIListener" project="xabber" xLocation="863" yLocation="8199"/>
+        <class className="com.xabber.android.data.message.OnChatChangedListener" project="xabber" xLocation="698" yLocation="8675"/>
+        <class className="com.xabber.android.ui.dialog.OnAcceptListener" project="xabber" xLocation="428" yLocation="5391"/>
+        <class className="com.xabber.android.ui.ChatEditor" project="xabber" xLocation="6390" yLocation="7504"/>
+        <class className="com.xabber.android.ui.PhraseList" project="xabber" xLocation="5850" yLocation="4774"/>
+        <class className="com.xabber.android.data.roster.OnContactChangedListener" project="xabber" xLocation="2201" yLocation="9918"/>
+        <class className="com.xabber.android.ui.dialog.ConfirmDialogListener" project="xabber" xLocation="922" yLocation="4572"/>
+        <class className="com.xabber.android.ui.ChatList" project="xabber" xLocation="4706" yLocation="7788"/>
+        <class className="java.lang.Object" project="xabber" xLocation="6747" yLocation="4469"/>
+        <class className="com.xabber.android.ui.dialog.OnDeclineListener" project="xabber" xLocation="100" yLocation="3755"/>
+    </diagram>
+</ajsv>
